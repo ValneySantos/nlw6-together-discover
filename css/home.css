@@ -1,0 +1,6 @@
+html{
+    --background-color: hsl(122, 76%, 53%);
+}
+body{
+    background: var(--background-color);
+}
